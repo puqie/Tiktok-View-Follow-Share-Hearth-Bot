@@ -16,7 +16,7 @@ namespace ConsoleApp1
         {
 
             var proxy = "";  // If you have 502 problem use proxy
-            var link = "https://www.tiktok.com/@eref_fps/video/7000992357143350533?is_copy_url=1&is_from_webapp=v1";
+            var link = ""; // Video link
 
 
             Console.BackgroundColor = ConsoleColor.Red;

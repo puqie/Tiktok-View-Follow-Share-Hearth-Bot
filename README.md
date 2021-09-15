@@ -13,6 +13,7 @@
 
 ## Problems
 
-If your browser cannot access this link zefoy.com, edit line 18. (502,404 or something)
-If you have problems you can create an issue on [issues section] or contact me in Discord Buğra#9482
+https://www.zefoy.com Click this link if you have a 404 or 502 problem you need private proxy.
+If you have private proxy change line 18
+If you have another problems you can create an issue on [issues section] or contact me in Discord Buğra#9482
 

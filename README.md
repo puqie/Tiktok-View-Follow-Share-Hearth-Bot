@@ -13,7 +13,7 @@
 
 ## Problems
 
-https://www.zefoy.com Click this link if you have a 404 or 502 problem you need private proxy.<br /><br />
+https://www.zefoy.com Click this link if you have a 404 or 502 problem you need private proxy.<br />
 If you have private proxy change line 18<br />
 If you have another problems you can create an issue on [issues section] or contact me in Discord Buğra#9482
 

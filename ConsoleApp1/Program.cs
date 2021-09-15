@@ -129,6 +129,7 @@ namespace ConsoleApp1
             Console.WriteLine("║ 7- Live Stream                                           Tiktok ║");
             Console.WriteLine("║                                                                 ║");
             Console.WriteLine("╚═════════════════════════════════════════════════════════════════╝");
+            Console.WriteLine("Author: https://github.com/bugralogoglu");
             Console.Write("Choose it (1-7): ");
 
         }

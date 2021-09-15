@@ -14,10 +14,10 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            var MyIni = new Class1("Settings.ini"); // Edit this
 
-            var proxy = MyIni.Read("Proxy");
-            var link = MyIni.Read("Link");
+            var proxy = "";  // If you have 502 problem use proxy
+            var link = "https://www.tiktok.com/@eref_fps/video/7000992357143350533?is_copy_url=1&is_from_webapp=v1";
+
 
             Console.BackgroundColor = ConsoleColor.Red;
             Console.ForegroundColor = ConsoleColor.Black;
